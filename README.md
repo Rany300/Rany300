@@ -9,7 +9,7 @@ Here are some of the technologies and tools that I have experience with:
 - **Languages**: TypeScript, Java, C#, PHP, Swift, HTML, CSS
 - **Frameworks and libraries**: React, Angular, Node.js with Express, Vue.js, jQuery, Tailwind CSS
 - **Databases**: MySQL, NoSQL
-- **Other tools**: Git, Visual Studio Code, Eclipse, Xcode, Photoshop
+- **Other tools**: Git, Visual Studio Code, Xcode
 
 <!-- ## Projects
 
